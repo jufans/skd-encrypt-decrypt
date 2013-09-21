@@ -10,7 +10,7 @@ Jika kata yg diketik
 	"the quick brown fox jump over the lazy dog"
 kemudian buat program pembaliknya:
 	6*'37+%-$4190(1:'7/218'46*'.#<;&1)
-ketika dimasukkan OGGV maka yg keluar adalah 1))8 dan jika CHVGT maka yg keluar adalah %*8)6
+Ketika dimasukkan OGGV maka yg keluar adalah 1))8 dan jika CHVGT maka yg keluar adalah %*8)6
 ---
 
 Anyway, it's under MIT license so
