@@ -11,11 +11,10 @@ jika kata yg diketik
 kemudian buat program pembaliknya:
 	6*'37+%-$4190(1:'7/218'46*'.#<;&1)
 ketika dimasukkan:
-OGGV maka yg keluar adalah 1))8
-CHVGT maka yg keluar adalah %*8)6
+OGGV maka yg keluar adalah 1))8 dan jika CHVGT maka yg keluar adalah %*8)6
 ---
 
-anyway, it's under MIT license so
+Anyway, it's under MIT license so
 it's free to use (at your own risk)
 if you have any question feel free
 to ask me @jufanz.
