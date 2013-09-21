@@ -1,7 +1,7 @@
 skd-encrypt-decrypt
 ===================
 
-Data Security System: Simple Encrypt-Decrypt via JavaScript
+Data Security System: Simple Encrypt-Decrypt using JavaScript
 
 These files are subject to Data Security System Subject at Sebelas Maret University.
 Below is the task detail (in Indonesian):
